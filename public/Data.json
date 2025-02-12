@@ -1,0 +1,21 @@
+[{
+    "yearOffer" : "new year sale",
+    "offerPercent" : "get and extra 50% off",
+    "shopBtn" : "Show now ",
+    "productImg" : " https://i.postimg.cc/PJyRfGkf/laptop-CT-La-Ld8.png",
+    "class" : "childOne"
+},
+{
+    "yearOffer" : "new year sale",
+    "offerPercent" : "40% discount on headphone",
+    "shopBtn" : "Show now ",
+    "productImg" : "https://i.postimg.cc/d355P88L/headphone-Ecom-Cx8-W04-La.png",
+    "class" : "childTwo"
+},
+{
+    "yearOffer" : "new year sale",
+    "offerPercent" : "get and extra 50% off",
+    "shopBtn" : "Show now ",
+    "productImg" : "https://i.postimg.cc/fT3cRnsH/mobiles-BWFz1y-VQ.png",
+    "class" : "childThree"
+}]
